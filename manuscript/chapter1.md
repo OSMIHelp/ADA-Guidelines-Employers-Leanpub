@@ -93,7 +93,7 @@ Purpose: The following handbook  consists of compiled  guidelines for executives
 
 {pagebreak}
 
-# Section I: The Americans with Disabilities Act - Your Responsibilities as an Employer
+# Section I: The ADA - Your Responsibilities as an Employer
 
 
 The Americans with Disabilities Act of 1990 (ADA) makes it unlawful to discriminate in employment against a qualified individual with a disability. The ADA also outlaws discrimination against individuals with disabilities in State and local government services, public accommodations, transportation and telecommunications. These guidelines  explain the part of the ADA that prohibits job discrimination. This part of the law is enforced by the U.S. Equal Employment Opportunity Commission and State and local civil rights enforcement agencies that work with the Commission.
