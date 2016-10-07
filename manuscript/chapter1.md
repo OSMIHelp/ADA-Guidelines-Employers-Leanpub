@@ -790,3 +790,11 @@ United States Equal Employment Opportunity Commission. (2009). _EEOC Enforcement
 
 United States Equal Employment Opportunity Commission. (n.d.a.). _The ADA: Your responsibilities as an employer_.
 &nbsp;&nbsp;&nbsp;&nbsp;Retrieved from <span class="c5 c37">[http://www.eeoc.gov/eeoc/publications/ada17.cfm](http://www.eeoc.gov/eeoc/publications/ada17.cfm)
+
+
+# OSMI Contributors
+
+* Jennifer Akullian, PhD
+* Ed Finkler
+* Johanna Wu, PhD
+* Cover art by Matt Wallace <matt@wausonline.com>
