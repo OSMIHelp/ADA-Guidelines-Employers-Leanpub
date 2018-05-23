@@ -10,6 +10,8 @@ This document was compiled by Open Sourcing Mental Illness contributors using EE
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 
+Cover art by Matt Wallace <matt@wausonline.com>
+
 {pagebreak}
 
 # Open Sourcing Mental Illness Diamond Patron
@@ -804,3 +806,11 @@ United States Equal Employment Opportunity Commission. (2009). _EEOC Enforcement
 
 United States Equal Employment Opportunity Commission. (n.d.a.). _The ADA: Your responsibilities as an employer_.
 &nbsp;&nbsp;&nbsp;&nbsp;Retrieved from <span class="c5 c37">[http://www.eeoc.gov/eeoc/publications/ada17.cfm](http://www.eeoc.gov/eeoc/publications/ada17.cfm)
+
+
+# OSMI Contributors
+
+* Jennifer Akullian, PhD
+* Ed Finkler
+* Johanna Wu, PhD
+* Cover art by Matt Wallace <matt@wausonline.com>
